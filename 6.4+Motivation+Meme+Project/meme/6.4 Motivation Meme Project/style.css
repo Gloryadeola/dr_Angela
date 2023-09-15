@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+}
+
+.meme{
+    color: white;
+    text-align: center;
+    font-family: 'Chakra Petch', sans-serif;
+    width:100%;
+    text-transform: capitalize;
+}
+
+
+.img{
+    border:solid pink
+}
+
+.p{
+    font-family: 'Fuggles', cursive;
+    text-decoration: solid;
+
+}
